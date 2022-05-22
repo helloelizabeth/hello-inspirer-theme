@@ -1,0 +1,26 @@
+{
+    "name": "hello-inspirer-theme",
+    "displayName": "Hello Inspirer",
+    "description": "Hello Elizabeth's Theme!",
+    "version": "0.0.1",
+    "publisher": "ElizabethMatias",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hello Inspirer Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hello Inspirer Dark-color-theme.json"
+            }
+        ]
+    }
+}

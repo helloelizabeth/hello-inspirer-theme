@@ -1,5 +1,3 @@
-# README
-## This is the README for your extension "hello-inspirer-theme"
 Hello there! Thank you so much for taking the time to check this out. :)
 
 I created a theme for Visual Studio as a part of my portfolio. It is entitled "Hello Inspirer" because...

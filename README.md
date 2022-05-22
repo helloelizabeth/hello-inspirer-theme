@@ -1,13 +1,10 @@
 # README
 ## This is the README for your extension "hello-inspirer-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Hello there! Thank you so much for taking the time to check this out. :)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+I created a theme for Visual Studio as a part of my portfolio. It is entitled "Hello Inspirer" because...
+* I want it to remind the users to stay inspired, stay creative, and to find the things that would inspire them to open their laptop or computer and start working on that personal project or work that you set aside before
+* I want it to remind ME that I need to be inspired with other developer's achievement and not beat myself up and think that I am not good enough
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
+I am truly hoping that you can download and use this theme. :)
 **Enjoy!**
